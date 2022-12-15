@@ -52,7 +52,7 @@ A generic {{domxref("Event")}}.
   <select class="ice-cream" name="ice-cream">
     <option value="">Select One …</option>
     <option value="chocolate">Chocolate</option>
-    <option value="sardine">Sardine</option>
+    <option value="strawberry">Strawberry</option>
     <option value="vanilla">Vanilla</option>
   </select>
 </label>
